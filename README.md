@@ -2,7 +2,7 @@
 Stay up to date with this awesome Covid-19 Statistics & live news React App.  
 In this app you will be able to:
 
--Visualize how the covid-19 spread from starting to till date On a map.
+- Visualize how the covid-19 spread from starting to till date On a map.
 - Check Covid-19 statistics of ANY country you select
 - Visualize these statistics in our map
 - Read charts and linegraphs for better data interpretation
@@ -24,14 +24,14 @@ You can install the app, use and modify it on your system by following the under
 # Website Screenshots
 
 
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc1.png" width="500px" height="500px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc1.png" width="500px" height="300px">
 <hr>
 
 
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc2.png" width="500px" height="500px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc2.png" width="500px" height="300px">
 <hr>
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc3.png" width="500px" height="500px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc3.png" width="500px" height="300px">
 <hr>
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc4.png" width="500px" height="500px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc4.png" width="500px" height="300px">
 <hr>
 
