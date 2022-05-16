@@ -1,4 +1,4 @@
-# React COVID-19 Tracker <img align="left" alt="Covid" width="50px" src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/COVIDIcon.png" style="padding-right:10px; fill:black;" />
+# COVID-19 Tracker <img align="left" alt="Covid" width="50px" src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/COVIDIcon.png" style="padding-right:10px; fill:black;" />
 Stay up to date with this awesome Covid-19 Statistics & live news React App.  
 In this app you will be able to:
 
