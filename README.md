@@ -24,14 +24,14 @@ You can install the app, use and modify it on your system by following the under
 # Website Screenshots
 
 
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc1.png" width="400px" height="200px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc1.png" width="500px" height="500px">
 <hr>
 
 
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc2.png" width="400px" height="200px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc2.png" width="500px" height="500px">
 <hr>
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc3.png" width="400px" height="200px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc3.png" width="500px" height="500px">
 <hr>
-<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc4.png" width="400px" height="200px">
+<img src="https://github.com/ayushsrivastav0811/Covid-19-Tracker/blob/master/public/sc4.png" width="500px" height="500px">
 <hr>
 
